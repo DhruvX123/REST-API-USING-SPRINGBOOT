@@ -7,7 +7,7 @@ import lombok.*;
 @ToString
 @Getter
 @Setter
-//jdcm
+
 public class TaskDTO {
 
     private Long task_id;
